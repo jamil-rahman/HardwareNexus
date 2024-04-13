@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HardwareNexus</string>
+    <string name="splash_title">Build your Dream Machine</string>
+    <string name="content_description">Logo of Website</string>
+    <string name="signup">SIGN UP</string>
+    <string name="login">LOGIN</string>
+    <string name="login_username">Username</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_navlink">Already have an account? LOGIN here!</string>
+    <string name="register_navlink">Don\'t have an account? SIGNUP here!</string>
+
+</resources>

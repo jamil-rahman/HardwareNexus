@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#202C39</color>
+    <color name="colorCart">#F29559</color>
+    <color name="colorBtn">#F2D492</color>
+    <color name="colorTxt_white">#FFFFFF</color>
+    <color name="colorTxt_black">#000000</color>
+    <color name="colorLinkBlue">#0450E4</color>
+</resources>

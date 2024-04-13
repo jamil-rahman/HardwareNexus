@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442410074860",
+    "project_id": "hardware-nexus-mobile",
+    "storage_bucket": "hardware-nexus-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442410074860:android:a2e3951213d34e93a19bc9",
+        "android_client_info": {
+          "package_name": "com.example.hardwarenexus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVOPSeGd4r7JPygud4nHq8fJcyfl4-oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
