@@ -32,6 +32,8 @@ android {
 }
 
 dependencies {
+    implementation("com.google.firebase:firebase-auth:22.3.1")
+    implementation("com.github.bumptech.glide:glide:4.16.0")
     implementation("com.google.firebase:firebase-firestore:24.11.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.11.0")

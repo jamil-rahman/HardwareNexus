@@ -9,5 +9,8 @@
     <string name="login_password">Password</string>
     <string name="login_navlink">Already have an account? LOGIN here!</string>
     <string name="register_navlink">Don\'t have an account? SIGNUP here!</string>
+    <string name="search">Search products</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="close">Close</string>
 
 </resources>
